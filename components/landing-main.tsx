@@ -30,9 +30,7 @@ export const LandingMain = () => {
             </div>
                     <button className="pb-20 text-2xl">
                         <GlowingGradientBorderButton gradient="bg-gradient-to-r from-red-600 to-red-600" href="/dashboard">
-                        <Link href="/dashboard">
                             Conversation
-                        </Link>
                         </GlowingGradientBorderButton>
                     </button>
                     

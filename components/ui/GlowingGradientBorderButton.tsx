@@ -35,11 +35,11 @@ export default function GlowingGradientBorderButton({
           target={target}
           rel={rel}
         >
-          <span className={cn('block h-10 inset-1 rounded-xl p-1', gradient)}>
+          <div className={cn('block h-10 inset-1 rounded-xl p-1', gradient)}>
             <span className="h-20 p-1 items-center px-6 bg-neutral-900 text-neutral-50 rounded-lg">
               {children}
             </span>
-          </span>
+          </div>
         </a>
       </div>
     </div>
