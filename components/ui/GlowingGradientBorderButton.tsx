@@ -17,7 +17,6 @@ export default function GlowingGradientBorderButton({
   gradient,
   children,
   href,
-  target = '_blank',
   rel = 'noreferrer noopener'
 }: Props) {
   return (
@@ -32,7 +31,6 @@ export default function GlowingGradientBorderButton({
         <a
           className="relative block w-23 h-4 md:h-10 group-hover:scale-205 duration-500 group-hover:duration-200"
           href={href}
-          target={target}
           rel={rel}
         >
           <div className={cn('block h-10 inset-1 rounded-xl p-1', gradient)}>
