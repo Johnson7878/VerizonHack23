@@ -1,3 +1,8 @@
+GROUP MEMBERS: COLE JOHNSON (UI DEV), RITESH CHOWDHRY (DATA PROCESSING/AGGREGATION), KYLE FINKEN (GPT/VECTORDB DEV), BRANDON MELENDEZ (PROJECT MANAGER/BUSINESS ADMIN)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
